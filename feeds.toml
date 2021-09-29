@@ -11,3 +11,10 @@ url = "https://en.wikivoyage.org/wiki/Main_Page"
 entrySelector = ".jcarousel-wrapper .jcarousel-item"
 titleSelector = "h2"
 linkSelector = "h2 a"
+
+[news_bilingual]
+title = "双语新闻"
+url = "https://language.chinadaily.com.cn/news_bilingual/"
+entrySelector = ".content_left .gy_box"
+titleSelector = ".gy_box_txt2"
+linkSelector = ".gy_box_txt2 a"
