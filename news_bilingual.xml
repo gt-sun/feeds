@@ -2,9 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://language.chinadaily.com.cn/news_bilingual/</id>
     <title>双语新闻</title>
-    <updated>2021-09-29T10:52:48.793Z</updated>
+    <updated>2021-09-30T05:38:34.178Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://language.chinadaily.com.cn/news_bilingual/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“美容贷”及类似广告，一律停播！]]></title>
+        <id>https://language.chinadaily.com.cn/a/202109/30/WS6154fe04a310cdd39bc6c7a8.html</id>
+        <link href="https://language.chinadaily.com.cn/a/202109/30/WS6154fe04a310cdd39bc6c7a8.html"/>
+        <updated>2021-09-30T05:38:33.514Z</updated>
+        <content type="html"><![CDATA[<a target="_blank" class="gy_box_img" shape="rect" href="//language.chinadaily.com.cn/a/202109/30/WS6154fe04a310cdd39bc6c7a8.html"><img src="//img2.chinadaily.com.cn/images/202109/30/6154fe04a310cdd3d810879a.jpeg"></a>
+                 
+                <div class="gy_box_txt">
+                  
+
+                  <p class="gy_box_txt2">
+                    <a target="_blank" shape="rect" href="//language.chinadaily.com.cn/a/202109/30/WS6154fe04a310cdd39bc6c7a8.html">“美容贷”及类似广告，一律停播！</a>
+                  </p>
+                  <p class="gy_box_txt3">
+                    <a target="_blank" shape="rect" href="//language.chinadaily.com.cn/a/202109/30/WS6154fe04a310cdd39bc6c7a8.html">国家广播电视总局办公厅发布关于停止播出“美容贷”及类似广告的通知，正式宣告将“美容贷”及类似广告关入“禁闭室”。</a>
+                  </p>
+                </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[这样也行？丹麦艺术家“以艺术之名”卷款而去]]></title>
         <id>https://language.chinadaily.com.cn/a/202109/29/WS6153fac1a310cdd39bc6c5cf.html</id>
@@ -256,24 +274,6 @@
                   </p>
                   <p class="gy_box_txt3">
                     <a target="_blank" shape="rect" href="//language.chinadaily.com.cn/a/202109/23/WS614bc384a310cdd39bc6ad78.html">科学研究证明，穿袜子睡觉可以让你提前15分钟进入梦乡，晚上醒过来的时间也会少得多。</a>
-                  </p>
-                </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[巴西圣保罗将推出“空中出租车”服务 价格或与的士相当]]></title>
-        <id>https://language.chinadaily.com.cn/a/202109/22/WS614ad6d7a310cdd39bc6abe4.html</id>
-        <link href="https://language.chinadaily.com.cn/a/202109/22/WS614ad6d7a310cdd39bc6abe4.html"/>
-        <updated>2021-09-29T10:52:48.076Z</updated>
-        <content type="html"><![CDATA[<a target="_blank" class="gy_box_img" shape="rect" href="//language.chinadaily.com.cn/a/202109/22/WS614ad6d7a310cdd39bc6abe4.html"><img src="//img2.chinadaily.com.cn/images/202109/22/614ad6d7a310cdd3d80eb03e.jpeg"></a>
-                 
-                <div class="gy_box_txt">
-                  
-
-                  <p class="gy_box_txt2">
-                    <a target="_blank" shape="rect" href="//language.chinadaily.com.cn/a/202109/22/WS614ad6d7a310cdd39bc6abe4.html">巴西圣保罗将推出“空中出租车”服务 价格或与的士相当</a>
-                  </p>
-                  <p class="gy_box_txt3">
-                    <a target="_blank" shape="rect" href="//language.chinadaily.com.cn/a/202109/22/WS614ad6d7a310cdd39bc6abe4.html">2025年巴西圣保罗将率先使用空中的士搭载通勤乘客，据称“打飞的”费用将被压到和优步出租车相近的水平。</a>
                   </p>
                 </div>]]></content>
     </entry>
