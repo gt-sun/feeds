@@ -2,9 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://language.chinadaily.com.cn/news_bilingual/</id>
     <title>双语新闻</title>
-    <updated>2021-11-05T05:39:12.750Z</updated>
+    <updated>2021-11-05T17:45:31.137Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://language.chinadaily.com.cn/news_bilingual/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[全球首个！英国批准首款抗新冠口服药]]></title>
+        <id>https://language.chinadaily.com.cn/a/202111/05/WS6184ea6ca310cdd39bc739e5.html</id>
+        <link href="https://language.chinadaily.com.cn/a/202111/05/WS6184ea6ca310cdd39bc739e5.html"/>
+        <updated>2021-11-05T17:45:28.564Z</updated>
+        <content type="html"><![CDATA[<a target="_blank" class="gy_box_img" shape="rect" href="//language.chinadaily.com.cn/a/202111/05/WS6184ea6ca310cdd39bc739e5.html"><img src="//img2.chinadaily.com.cn/images/202111/05/6184ea6ca310cdd3d81848e6.jpeg"></a>
+                 
+                <div class="gy_box_txt">
+                  
+
+                  <p class="gy_box_txt2">
+                    <a target="_blank" shape="rect" href="//language.chinadaily.com.cn/a/202111/05/WS6184ea6ca310cdd39bc739e5.html">全球首个！英国批准首款抗新冠口服药</a>
+                  </p>
+                  <p class="gy_box_txt3">
+                    <a target="_blank" shape="rect" href="//language.chinadaily.com.cn/a/202111/05/WS6184ea6ca310cdd39bc739e5.html">英国11月4日宣布，已批准美国默克公司研发的口服抗新冠药物莫那比拉韦用于特定新冠患者。</a>
+                  </p>
+                </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[睡前喝杯热牛奶，真的可以睡得更好?]]></title>
         <id>https://language.chinadaily.com.cn/a/202111/05/WS61847405a310cdd39bc7372d.html</id>
@@ -254,24 +272,6 @@
                   </p>
                   <p class="gy_box_txt3">
                     <a target="_blank" shape="rect" href="//language.chinadaily.com.cn/a/202110/29/WS617b3985a310cdd39bc71fa9.html">罗德岛州即将开设全美首个毒品安全注射中心，在这里吸毒者能够在工作人员监督下注射毒品，防止用药过量致死。</a>
-                  </p>
-                </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[研究揭秘：为什么自恋者升职更容易？]]></title>
-        <id>https://language.chinadaily.com.cn/a/202110/28/WS617a3f3ea310cdd39bc71e32.html</id>
-        <link href="https://language.chinadaily.com.cn/a/202110/28/WS617a3f3ea310cdd39bc71e32.html"/>
-        <updated>2021-10-28T17:42:51.959Z</updated>
-        <content type="html"><![CDATA[<a target="_blank" class="gy_box_img" shape="rect" href="//language.chinadaily.com.cn/a/202110/28/WS617a3f3ea310cdd39bc71e32.html"><img src="//img2.chinadaily.com.cn/images/202110/28/617a3f3ea310cdd3d81665db.jpeg"></a>
-                 
-                <div class="gy_box_txt">
-                  
-
-                  <p class="gy_box_txt2">
-                    <a target="_blank" shape="rect" href="//language.chinadaily.com.cn/a/202110/28/WS617a3f3ea310cdd39bc71e32.html">研究揭秘：为什么自恋者升职更容易？</a>
-                  </p>
-                  <p class="gy_box_txt3">
-                    <a target="_blank" shape="rect" href="//language.chinadaily.com.cn/a/202110/28/WS617a3f3ea310cdd39bc71e32.html">研究发现，自恋者会高估自己的贡献，并喜欢自我宣传，但调查显示，主管更愿意提拔这样的员工，而且并不反感自我宣传行为。</a>
                   </p>
                 </div>]]></content>
     </entry>
