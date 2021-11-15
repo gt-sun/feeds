@@ -2,9 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://language.chinadaily.com.cn/news_bilingual/</id>
     <title>双语新闻</title>
-    <updated>2021-11-13T17:44:04.444Z</updated>
+    <updated>2021-11-15T05:39:15.101Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://language.chinadaily.com.cn/news_bilingual/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“废话文学”刷屏网络：上次看到这些废话，还是上次……]]></title>
+        <id>https://language.chinadaily.com.cn/a/202111/14/WS61905185a310cdd39bc7533d.html</id>
+        <link href="https://language.chinadaily.com.cn/a/202111/14/WS61905185a310cdd39bc7533d.html"/>
+        <updated>2021-11-15T05:39:14.489Z</updated>
+        <content type="html"><![CDATA[<a target="_blank" class="gy_box_img" shape="rect" href="//language.chinadaily.com.cn/a/202111/14/WS61905185a310cdd39bc7533d.html"><img src="//img2.chinadaily.com.cn/images/202111/14/61905185a310cdd3d81a4a11.jpeg"></a>
+                 
+                <div class="gy_box_txt">
+                  
+
+                  <p class="gy_box_txt2">
+                    <a target="_blank" shape="rect" href="//language.chinadaily.com.cn/a/202111/14/WS61905185a310cdd39bc7533d.html">“废话文学”刷屏网络：上次看到这些废话，还是上次……</a>
+                  </p>
+                  <p class="gy_box_txt3">
+                    <a target="_blank" shape="rect" href="//language.chinadaily.com.cn/a/202111/14/WS61905185a310cdd39bc7533d.html">废话，逐渐成了信息时代的一股“清流”。重复，是“废话文学”最明显的特征，能造成一种意想不到的嘲弄幽默效果。</a>
+                  </p>
+                </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[马斯克兑现承诺 卖掉10%的特斯拉股票]]></title>
         <id>https://language.chinadaily.com.cn/a/202111/12/WS618e0c69a310cdd39bc75046.html</id>
@@ -254,24 +272,6 @@
                   </p>
                   <p class="gy_box_txt3">
                     <a target="_blank" shape="rect" href="//language.chinadaily.com.cn/a/202111/03/WS618242b0a310cdd39bc731ab.html">台湾是中国的一部分，这是任何人、任何势力都无法改变的历史和法理事实。民进党再努力地攀主子也只是徒劳，只会让自己成为笑料。</a>
-                  </p>
-                </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[冰岛工厂将二氧化碳变成石头 让温室气体无处可逃]]></title>
-        <id>https://language.chinadaily.com.cn/a/202111/03/WS618240aca310cdd39bc731a8.html</id>
-        <link href="https://language.chinadaily.com.cn/a/202111/03/WS618240aca310cdd39bc731a8.html"/>
-        <updated>2021-11-03T17:45:38.317Z</updated>
-        <content type="html"><![CDATA[<a target="_blank" class="gy_box_img" shape="rect" href="//language.chinadaily.com.cn/a/202111/03/WS618240aca310cdd39bc731a8.html"><img src="//img2.chinadaily.com.cn/images/202111/03/618240aca310cdd3d817b62e.jpeg"></a>
-                 
-                <div class="gy_box_txt">
-                  
-
-                  <p class="gy_box_txt2">
-                    <a target="_blank" shape="rect" href="//language.chinadaily.com.cn/a/202111/03/WS618240aca310cdd39bc731a8.html">冰岛工厂将二氧化碳变成石头 让温室气体无处可逃</a>
-                  </p>
-                  <p class="gy_box_txt3">
-                    <a target="_blank" shape="rect" href="//language.chinadaily.com.cn/a/202111/03/WS618240aca310cdd39bc731a8.html">冰岛一家工厂采用了新除碳技术，捕获空气中的二氧化碳并将其转化为石头，这样二氧化碳就“无处可逃”了！</a>
                   </p>
                 </div>]]></content>
     </entry>
